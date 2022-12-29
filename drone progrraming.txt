@@ -1,0 +1,13 @@
+telnet or tel.connect
+
+1-read_until - Read until a given string, expected, 
+is encountered or until timeout seconds have passed.
+2-write - Write a string to the socket, doubling any IAC characters. ...
+3-read_all() - Read all data until EOF; block until connection closed.
+
+PIP is a package manager for Python packages
+
+getframeread() - extracting frame rates
+tel.streamon - live streaming
+
+tello sdk software development kit
